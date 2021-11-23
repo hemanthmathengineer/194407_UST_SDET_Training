@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="TetsNg_Cucumber/src/test/java"/>
+	<classpathentry kind="lib" path="TetsNg_Cucumber/target/TestNg_Cucumber-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="TetsNg_Cucumber/target/test-classes"/>
+</classpath>

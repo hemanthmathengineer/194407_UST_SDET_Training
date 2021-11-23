@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    text-align: left;
+}
+
+h1{
+    text-align-last: center;
+}
+h2{
+    text-align: left;
+   
+}
+p{
+
+    background-color: burlywood;
+    text-decoration-color: cadetblue;
+    
+}
+/* This is a single-line comment */
+
+
+
